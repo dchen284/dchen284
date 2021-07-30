@@ -6,7 +6,7 @@
 
 [![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=dchen284)](https://github.com/dchen284/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dchen284)](https://github.com/dchen284/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dchen284&layout=compact)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
