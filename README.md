@@ -4,7 +4,7 @@
 * 🎴  Hobbies: board games, Magic: the Gathering, reading non-fiction, museums
 * 📫. How to reach me: Email me at dchen284@gmail.com
 
-[![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=dchen284)
+<!-- ![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=dchen284) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dchen284&layout=compact&hide=scss)
 
