@@ -1,6 +1,6 @@
 ### Hello!
 
-* 🔭  I’m currently working on finding a new job as a Software Engineer!  Check out my LinkedIn profile at www.linkedin.com/in/danny-chen-b2963110b.
+* 🔭  Check out my LinkedIn profile at www.linkedin.com/in/danny-chen-b2963110b.
 * 🎴  Hobbies: board games, Magic: the Gathering, reading non-fiction, museums
 * 📫. How to reach me: Email me at dchen284@gmail.com
 
